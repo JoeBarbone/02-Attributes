@@ -1,5 +1,5 @@
 # 🐛 Images and Styles Not Appearing on Page
-
+## 02 - Attributes Virtual Class 1
 Work with a partner to resolve the following issues:
 
 * As a user, I should be able to see an image on the page, and `alt` text that describes the image should be provided.
@@ -25,6 +25,8 @@ Work with a partner to resolve the following issues:
 The following image demonstrates the web application's appearance and functionality:
 
 ![Completed page showing student bio with picture, background colors, working links and blue heading text.](assets/images/screenshot.jpg)
+
+See live site [Student Bio with Attributes](https://joebarbone.github.io/02-Attributes/)
 
 ---
 
