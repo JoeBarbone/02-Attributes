@@ -1,5 +1,5 @@
 # 🐛 Images and Styles Not Appearing on Page
-## 02 - Attributes Virtual Class 1
+## 02 - Attributes Virtual Class #1
 Work with a partner to resolve the following issues:
 
 * As a user, I should be able to see an image on the page, and `alt` text that describes the image should be provided.
